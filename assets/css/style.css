@@ -80,6 +80,21 @@ section {
     position: relative;
 }
 
+.build-habits {
+    position: absolute;
+    left: 140px;
+}
+
+.build-habits h3 {
+    font-size: 50px;
+    color:#fce138;
+}
+
+.build-habits p {
+    color: white;
+    width: 500px;
+}
+
 .hero-form {
     color: #024e76;
     background-color: #fce138;
